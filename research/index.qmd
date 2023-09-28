@@ -1,0 +1,41 @@
+---
+title: "Research"
+listing:
+  - id: journal-article
+    contents: journal_article.yaml
+    template: papers.ejs
+    filter-ui: false
+    sort: "date desc"
+    sort-ui: false
+  - id: big-team
+    contents: big_team.yaml
+    template: papers.ejs
+    filter-ui: false
+    sort: "date desc"
+    sort-ui: false
+  - id: in-progress
+    contents: in_progress.yaml
+    template: papers.ejs
+    filter-ui: false
+    sort: "date desc"
+    sort-ui: false
+toc: true
+date-format: "D MMM YYYY"
+---
+
+(^\*^equal contributions; ^\^^mentees; ^\#^correspondence)
+
+## Journal article
+
+::: {#journal-article}
+:::
+
+## Big-team projects
+
+::: {#big-team}
+:::
+
+## Work in progress
+
+::: {#in-progress}
+:::

@@ -1,20 +1,46 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
 
 website:
-  title: "qinyuxiao.github.io"
+  title: "Qinyu Xiao"
+  site-url: https://qinyuxiao.github.io
+  description: "Qinyu is a PhD student at the University of Vienna."
+  comments:
+    utterances:
+      repo: qinyuxiao/qinyuxiao.github.io
   navbar:
+    pinned: true
+    background: "#000000"
+    foreground: light
+    
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: cv/index.qmd
+        text: CV
+      - href: research/index.qmd
+        text: Research
+    
+    right:
+      - text: Email
+        href: mailto:qinyuxiao@univie.ac.at
+      - text: BlueSky
+        href: https://bsky.app/profile/qinyuxiao.bsky.social
+      - text: GitHub
+        href: https://github.com/qinyuxiao
+      - text: Twitter/X
+        href: https://twitter.com/qinyu_xiao
 
 format:
   html:
     theme: cosmo
+    grid:
+      body-width: 900px
     css: styles.css
-    toc: true
+    toc: false
 
 editor: source
 

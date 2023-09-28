@@ -1,0 +1,7 @@
+---
+title: "Curriculum vitae"
+comments: false
+toc: false
+---
+
+I maintain [my curriculum vitae](https://docs.google.com/document/d/1PTG0KoESZOUg-ugLJuj3WgjkWCW6uoHcj_cIdAKiDMI/edit?usp=sharing) on Google Docs.
