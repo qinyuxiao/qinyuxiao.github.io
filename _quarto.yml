@@ -14,7 +14,7 @@ website:
   navbar:
     pinned: true
     background: "#FFFFFF"
-    foreground: "#FFFFFF"
+    foreground: light
     
     left:
       - href: index.qmd
