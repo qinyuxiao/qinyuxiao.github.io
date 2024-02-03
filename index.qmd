@@ -1,7 +1,7 @@
 ---
 title: "Welcome to my website."
 pagetitle: "Qinyu Xiao"
-title-block-banner: "#0063A6"
+title-block-banner: "#EEEEEE"
 main-photo: /avatar.jpg
 main-photo-square: /avatar_square.jpg
 comments: false
