@@ -30,9 +30,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my website!",
+    "title": "Welcome to my website.",
     "section": "",
-    "text": "I am a PhD student with the Social and Economic Psychology Group (Chair: Prof. Dr. Robert Böhm) at the Department of Occupational, Economic and Social Psychology, University of Vienna, Austria. I received my M.Phil. in social psychology and B.A. in psychology and philosophy from the University of Hong Kong.\n\nMy research\nBroadly speaking, I study situations of interdependence, especially why people cooperate and participate in intergroup conflicts, what social institutions can encourage cooperation in prominent societal challenges, and how people perceive and evaluate different social institutions. I am particularly interested in institutional solutions to promoting cooperation in social dilemmas. I seek to draw insights and utilize methods from multiple disciplines, including social psychology, economics, and evolutionary biology. I endorse open science principles and actively promote relevant practices.\n\n\nCooperation Colloquia\nTogether with Simon Columbus (MIT) and Giuliana Spadaro (VU Amsterdam), I organize the Cooperation Colloquia, a forum for latest interdisciplinary research on cooperation in humans, non-human animals, and even machines."
+    "text": "I am a PhD student with the Social and Economic Psychology Group (Chair: Prof. Dr. Robert Böhm) at the Department of Occupational, Economic and Social Psychology, University of Vienna, Austria. I received my M.Phil. in social psychology and B.A. in psychology and philosophy from the University of Hong Kong.\n\nMy research\nBroadly speaking, I study situations of interdependence. I am interested in how people react to, evaluate, select, and create situations where their behaviors affect not only their own but also others’ outcomes. Currently, I examine why people cooperate and participate in intergroup conflicts and what social institutions encourage cooperation in prominent societal challenges that are structurally social dilemmas. I primarily use surveys and economic experiments, but I seek to draw insights and utilize methods from multiple disciplines, including social psychology, behavioral economics, and evolutionary biology. I endorse open science and advocate for practices that increase research transparency, replicability, and generalizability.\n\n\nCooperation Colloquia\nTogether with Simon Columbus (MIT) and Giuliana Spadaro (VU Amsterdam), I organize the Cooperation Colloquia, a forum for latest interdisciplinary research on cooperation in humans, non-human animals, and even machines."
   },
   {
     "objectID": "cv/index.html",
@@ -40,5 +40,12 @@
     "title": "Curriculum vitae",
     "section": "",
     "text": "I maintain my curriculum vitae on Google Docs."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

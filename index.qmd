@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website!"
+title: "Welcome to my website."
 pagetitle: "Qinyu Xiao"
 title-block-banner: "#0063A6"
 main-photo: /avatar.jpg
@@ -33,7 +33,7 @@ I am a PhD student with the [Social and Economic Psychology Group](https://socia
 
 ### My research
 
-Broadly speaking, I study situations of interdependence, especially why people cooperate and participate in intergroup conflicts, what social institutions can encourage cooperation in prominent societal challenges, and how people perceive and evaluate different social institutions. I am particularly interested in institutional solutions to promoting cooperation in social dilemmas. I seek to draw insights and utilize methods from multiple disciplines, including social psychology, economics, and evolutionary biology. I endorse open science principles and actively promote relevant practices.
+Broadly speaking, I study situations of interdependence. I am interested in how people react to, evaluate, select, and create situations where their behaviors affect not only their own but also others' outcomes. Currently, I examine why people cooperate and participate in intergroup conflicts and what social institutions encourage cooperation in prominent societal challenges that are structurally social dilemmas. I primarily use surveys and economic experiments, but I seek to draw insights and utilize methods from multiple disciplines, including social psychology, behavioral economics, and evolutionary biology. I endorse open science and advocate for practices that increase research transparency, replicability, and generalizability.
 
 ### Cooperation Colloquia
 
