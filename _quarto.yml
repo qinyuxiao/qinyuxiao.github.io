@@ -13,8 +13,8 @@ website:
       repo: qinyuxiao/qinyuxiao.github.io
   navbar:
     pinned: true
-    background: "#FFFFFF"
-    foreground: light
+    background: light
+    foreground: dark
     
     left:
       - href: index.qmd
