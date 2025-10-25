@@ -3,11 +3,28 @@ project:
 
 website:
   title: "qinyuxiao.github.io"
+  site-url: https://qinyuxiao.github.io
+  description: "Qinyu is a doctoral candidate at the University of Vienna."
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    
+    right:
+      - icon: envelope
+        href: "mailto:qinyu.xiao@univie.ac.at"
+      - icon: bluesky
+        href: https://bsky.app/profile/qinyuxiao.bsky.social
+      - icon: twitter-x
+        href: https://x.com/qinyu_xiao
+      - icon: linkedin
+        href: www.linkedin.com/in/qinyu-x-508979145
+      - icon: github
+        href: https://github.com/qinyuxiao
+      - text: "{{< iconify academicons osf-square >}}"
+        href: https://osf.io/f9jze/
+      
 
 format:
   html:
@@ -16,6 +33,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
